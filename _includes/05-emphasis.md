@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+this where we can practice the difference between __bold__ and _italic_.
+
+We can also ___combine___ both.
